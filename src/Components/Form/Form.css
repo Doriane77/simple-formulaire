@@ -1,0 +1,38 @@
+input {
+  min-width: 94%;
+  height: 50px;
+  border: 1px slategray solid;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+button {
+  min-width: 100%;
+  height: 50px;
+  margin-top: 30px;
+  background-color: rebeccapurple;
+  color: white;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.Form h2 {
+  display: flex;
+  height: 50px;
+  font-weight: 700;
+  align-items: flex-end;
+  box-sizing: border-box;
+  padding-bottom: 5px;
+  padding-left: 3px;
+}
+.Form h3 {
+  display: flex;
+  align-items: flex-end;
+  font-size: 20px;
+  color: red;
+  height: 40px;
+}
+.falsePass {
+  border: red 1px solid;
+}
+.erroe-bordure {
+  border: red 1px solid;
+}
